@@ -1,1 +1,1 @@
-# Python_Exerc-cios_Rodrigo
+# Python_Exercicios_Rodrigo
