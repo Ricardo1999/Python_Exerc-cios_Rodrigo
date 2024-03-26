@@ -1,14 +1,23 @@
-<<<<<<< HEAD
-# Python_Exercicios_Rodrigo | 
-
-Repositório para entrega dos Exercícios Propostos pelo meu Software Engineer favorito.
-[Repository](https://github.com/Ricardo1999/Python_Exercicios_Rodrigo/tree/main?tab=readme-ov-file#python_exercicios_rodrigo)
-
-Ainda tenho que melhorar esse arquivo.
-
-Fazendo algumas alterações para testar o commit direto no repositorio remoto
-=======
 # Python_Exercicios_Rodrigo
 
+Repositório para entrega dos exercícios propostos pelo meu Software Engineer favorito.
 
->>>>>>> d7f577ac7b4394a2a669e8469197f1ec41cc72ce
+
+Projeto | Descrição | Nome do Arquivo
+--- | --- | --- |
+Movimentar Arquivos | Dado que foi informado um endereço de origem e um endereço de destino, mover um arquivo de origem para destino | [MovimentandoArquivos_v3.py](https://github.com/Ricardo1999/Python_Exercicios_Rodrigo/blob/main/MovimentandoArquivos_v3.py)
+Segundo Projeto | Descrição do Segundo Projeto | Link do segundo projeto |
+
+
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
+
+## Lessons Learned
+
+What did you learn while building this project? What challenges did you face and how did you overcome them?
+
+###### Movimentando Arquivos
+- Uso da função _.rename_ do pacote _os_ para movimentar arquivos.
+- The BackSlash Character: é necessário ter atenção no uso do "\\" devido a característica que o mesmo tem de escapar o caractere que vem em seguida. E nesse mesmo sentido o uso da string brutas para interpretação do "\\" (raw: r ou R prefixando a string)
